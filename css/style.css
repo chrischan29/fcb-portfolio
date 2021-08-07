@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Condensed&display=swap');
+
+body {
+	background-color: #C9D8B6;
+}
+
+h1 {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+h2 {
+	font-family: 'Poppins', sans-serif;
+}
+
+img {
+	width: 250px;
+}
