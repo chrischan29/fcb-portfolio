@@ -23,10 +23,22 @@ ul {
 	padding: 0;
 }
 
+#gallery,
 #landing {
 	height:  80vh;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+}
+
+.languages,
+.tools {
+	color:  white;
+	padding: 25px;
+	height: 200px;
+	border:	5px solid #f2f2f2;
+	margin: 20px;
+	width: 75%;
+
 }
