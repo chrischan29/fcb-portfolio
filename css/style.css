@@ -24,13 +24,23 @@ ul {
 	padding: 0;
 }
 
-#gallery,
+#gallery{
+	height:  80vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-top: 50px;
+
+}
+
 #landing {
 	height:  80vh;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	margin-top: 100px;
 }
 
 .languages,
