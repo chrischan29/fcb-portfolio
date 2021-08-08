@@ -3,6 +3,7 @@
 
 body {
 	background-color: #C9D8B6;
+
 }
 
 h1 {
@@ -15,4 +16,9 @@ h2 {
 
 img {
 	width: 250px;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
 }
